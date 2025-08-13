@@ -14,3 +14,26 @@ rm /tmp/AWSCLIV2.pkg
 
 # Tree
 brew install tree
+
+############# DOCKET #############
+# regctl
+brew install regclient
+
+
+############# KUBERNETES #############
+# Openshift cli
+brew install openshift-cli
+
+# kubelogin
+brew install Azure/kubelogin/kubelogin
+
+# Helm
+brew install helm
+
+
+############# NODE #############
+# NodeJS
+brew install node
+
+# Performant NPM
+brew install pnpm
