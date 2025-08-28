@@ -30,6 +30,8 @@ brew install Azure/kubelogin/kubelogin
 # Helm
 brew install helm
 
+# kubeconform
+brew install kubeconform
 
 ############# NODE #############
 # NodeJS
